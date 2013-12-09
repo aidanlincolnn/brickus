@@ -1,0 +1,12 @@
+Aidan Fowler
+Object Oriented Software Engineering
+
+Main method is in MyBrickusMain
+
+Features:
+	-Resizable window
+	-Images to represent the tiles
+	-Transparent image of a brickus piece location on board before placing it
+	-Tiles are able to be rotated and filpped, the updated image of the tile gets displayed on the tile board
+	-Tiles are highlighted when selected
+	-Running score is tabulated in the bottom right corner

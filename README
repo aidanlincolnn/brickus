@@ -1,0 +1,16 @@
+README 
+
+Copyright 
+Aidan Fowler
+2013
+
+Brickus game (based on Blockus (c) http://en.wikipedia.org/wiki/Blokus )
+
+In order to run app,
+
+1. Import MyBrickusUi and MyBrickusModel projects into eclipse,
+
+2. Configure the build path of MyBrickusUi to depend on the MyBrickusModel project
+
+3. Run MyBrickusUi as a java application
+
